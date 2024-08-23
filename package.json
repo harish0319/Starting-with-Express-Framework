@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "starting-with-express-framework",
+  "version": "1.0.0",
+  "main": "aap.js",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon aap.js",
+    "start-server": "node aap.js"
+  },
+  "author": "harish",
+  "license": "ISC",
+  "description": ""
+}
